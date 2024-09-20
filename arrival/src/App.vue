@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/ucsi_logo_footer.png">
+    <img alt="Vue logo" src="./assets/banner.png">
     <LandingComponent/>
   </div>
 </template>
